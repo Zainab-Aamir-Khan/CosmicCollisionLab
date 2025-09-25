@@ -3,3 +3,4 @@ print("lareb Ashfaq")
 print("tang kr diya is ny to")
 print("finally")
 print("larebbbb baba")
+print
