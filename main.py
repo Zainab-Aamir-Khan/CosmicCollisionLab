@@ -4,4 +4,4 @@ print("Hello world from zainab")
 
 print("..")
 
-print("hello world from lareeeb")
+print("hello world from laree")
