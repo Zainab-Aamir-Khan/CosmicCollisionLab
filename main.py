@@ -14,6 +14,6 @@ print("..")
 
 print("hello world from laree")
 
-print ("hello")
 
-main
+print("done by lareb")
+print ("hello")
