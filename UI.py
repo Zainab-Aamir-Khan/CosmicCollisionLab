@@ -10,6 +10,6 @@ print
 print("this is my ui file")
 print("this is zainab's file ")
 print("this is zainab's file ")
-print("this file done byyyyyyy lareb ")
+print("this file done byyyyyy lareb ")
 
 
