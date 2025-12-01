@@ -90,6 +90,7 @@ uvicorn api.server:app --reload --host localhost --port 8000
 - **E**: Toggle educational information panel
 - **I**: Toggle information panel
 - **F**: Toggle FPS counter
+- **U**: For opening and closing future work page
 - **H** or **F1**: Show/hide help
 - **W**: Dismiss welcome screen
 - **ESC**: Deselect body or exit application
@@ -158,7 +159,6 @@ Each scenario includes:
 A scientifically accurate representation of our solar system with:
 - The Sun at the center with realistic mass
 - Planets with correct relative sizes and orbital velocities
-- Earth's moon for added complexity
 - Stable, long-term orbital dynamics
 
 ### Galaxy Collision
@@ -432,6 +432,8 @@ This project is open source. Feel free to use, modify, and distribute according 
 
 ## 🙏 Acknowledgments
 
+- **Administrator**: For giving us a chance to work on this project
+- **group members**: For giving their time and skills
 - **NumPy**: Efficient numerical computations
 - **PyGame**: Cross-platform game development
 - **FastAPI**: Modern web API framework
