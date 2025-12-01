@@ -258,9 +258,9 @@ class FutureWorksPanel:
             "Contributors, researchers, and educators are welcome to join",
             "in expanding this platform for the benefit of science education.",
             "",
-            "Contact: [Your Email] | GitHub: [Your Repository]",
-            "Academic Supervisor: [Supervisor Name]",
-            "Institution: [Your University] - Final Year Project 2025"
+            "Contact: [] | GitHub: [Your Repository]",
+            "Academic Supervisor: [Madam Sana]",
+            "Institution: [Sheikh Zayed Islamic Research Center] - Final Year Project 2025"
         ]
         
         for line in cta_text:

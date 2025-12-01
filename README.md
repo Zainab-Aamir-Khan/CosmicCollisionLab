@@ -433,7 +433,7 @@ This project is open source. Feel free to use, modify, and distribute according 
 ## 🙏 Acknowledgments
 
 - **Administrator**: For giving us a chance to work on this project
-- **group members**: For giving their time and skills
+- **Group members**: For giving their time and skills
 - **NumPy**: Efficient numerical computations
 - **PyGame**: Cross-platform game development
 - **FastAPI**: Modern web API framework
