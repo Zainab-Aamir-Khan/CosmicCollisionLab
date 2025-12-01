@@ -258,7 +258,6 @@ class FutureWorksPanel:
             "Contributors, researchers, and educators are welcome to join",
             "in expanding this platform for the benefit of science education.",
             "",
-            "Contact: [] | GitHub: [Your Repository]",
             "Academic Supervisor: [Madam Sana]",
             "Institution: [Sheikh Zayed Islamic Research Center] - Final Year Project 2025"
         ]
