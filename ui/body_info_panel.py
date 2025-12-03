@@ -129,7 +129,7 @@ class BodyInfoPanel:
         pygame.draw.rect(screen, self.border_color, panel_rect, 2)
         
         # Draw title
-        title_text = f"📍 {self.selected_body.name}"
+        title_text = f"{self.selected_body.name}"
         title_surface = self.font_title.render(title_text, True, self.title_color)
         screen.blit(title_surface, (self.x + 10, self.y + 10))
         
